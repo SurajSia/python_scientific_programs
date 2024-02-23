@@ -8,7 +8,7 @@ def Caesar(text,shift):
             encrypt_txt+=char
         else:
             index=alphabet.find(char)
-            n_index=index+shift
+            n_index=(index+shift)%len(alphabet)
             encrypt_txt+=alphabet[n_index]
         print('Plain-Text : ',text)
         print('encrypted-text : ',encrypt_txt)
