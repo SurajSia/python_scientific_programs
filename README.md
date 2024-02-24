@@ -9,4 +9,5 @@ In this project, you'll learn fundamental programming concepts in Python, such a
 <p>I-II . String Manipulation By Building A VigenereCipher</p>
 <p> 2 . Learn And Work with Numbers and Strings using lunh's algorithm
  <p>3 . In this project, you are going to learn about list comprehensions in Python by building a program that can take a camelCase or PascalCase formatted string and convert that to a snake_case formatted string.</p>
+ <p>4 . Building a case conversion program using list compression and string manipulation methods </p>
 #link ref : https://www.freecodecamp.org/learn
