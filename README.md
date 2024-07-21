@@ -1,5 +1,7 @@
 # Python Scientific Programs
 
+![FreeCodeCamp Logo](https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png)
+
 ## Introduction
 
 I am doing my free courses offered by FreeCodeCamp Organization.
